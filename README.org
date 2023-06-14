@@ -2,8 +2,8 @@
 
 Source code for 'Practical Common Lisp' by Peter Seibel
 
-|---------+------------------------------------------------|
-| source  | git:https://github.com/snmsts/practical-cl.git |
-| commit  | 339dbf0                                        |
+|--------+------------------------------------------------|
+| source | git:https://github.com/snmsts/practical-cl.git |
+| commit | a655020                                        |
 | systems | pathnames                                      |
 |---------+------------------------------------------------|
