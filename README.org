@@ -2,12 +2,8 @@
 
 Source code for 'Practical Common Lisp' by Peter Seibel
 
-|--------+------------------------------------------------|
-| source | git:https://github.com/snmsts/practical-cl.git |
-| commit | a655020                                        |
-| systems | pathnames                                      |
-|---------+--------------|
-| systems | (pcl-html pcl-mp3-browser pcl-shoutcast pcl-mp3-database pcl-url-function
- pcl-id3v2 pcl-binary-data pcl-spam pcl-pathnames pcl-macro-utilities
- pcl-simple-database practical-cl) |
-|---------+--------------|
+|---------+--------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/snmsts/practical-cl.git                                             |
+| commit  | a655020                                                                                    |
+| systems | pcl-html pcl-mp3-browser pcl-shoutcast pcl-mp3-database pcl-url-function pcl-id3v2 pcl-binary-data pcl-spam pcl-pathnames pcl-macro-utilities pcl-simple-database practical-cl |
+|---------+--------------------------------------------------------------------------------------------|
